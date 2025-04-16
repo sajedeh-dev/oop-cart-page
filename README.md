@@ -4,11 +4,10 @@ A simple and modular shopping cart built with **vanilla JavaScript** and **Objec
 This project demonstrates how to structure a frontend app using reusable class components, async data loading, and dynamic DOM manipulation — without any frameworks.
 
 ## 🔗 Live Demo
-https://sajedeh-dev.github.io/oop-cart-page/
 
 👉 [Click here to see it live](https://sajedeh-dev.github.io/oop-cart-page/)
 
-ge/)
+
 ---
 
 ## ✨ Features
