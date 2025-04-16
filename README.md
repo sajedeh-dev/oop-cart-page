@@ -6,7 +6,7 @@ This project demonstrates how to structure a frontend app using reusable class c
 ## 🔗 Live Demo
 
 👉 [Click here to see it live]([https://your-username.github.io/oop-cart-page/](https://sajedeh-dev.github.io/oop-cart-page/))  
-*(Replace this link with your own GitHub Pages URL once deployed)*
+
 
 ---
 
